@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1646361036 source:c:\users\facebook\desktop\c++ projects\cross the road\main.cpp
+	<iostream>
+	<deque>
+	<vector>
+	<conio.h>
+	<time.h>
+
